@@ -16,7 +16,7 @@ use App\Http\Controllers\GroupController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('membership.extra');
 });
 
 // routes/web.php
